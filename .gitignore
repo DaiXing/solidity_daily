@@ -30,8 +30,8 @@ states/
 .env.local
 
 .github/
-lib/
-lib
+# lib/
+# lib
 node_modules/
 
 cache/
